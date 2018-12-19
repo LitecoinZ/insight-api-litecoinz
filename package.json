@@ -1,8 +1,8 @@
 {
-  "name": "insight-api-zcash",
-  "description": "A Zcash blockchain REST and web socket API service for Bitcore Node.",
+  "name": "insight-api-litecoinz",
+  "description": "A LitecoinZ blockchain REST and web socket API service for Bitcore Node.",
   "version": "0.4.3",
-  "repository": "git://github.com/zcash-hackworks/insight-api-zcash.git",
+  "repository": "git://github.com/litecoinz-hackworks/insight-api-litecoinz.git",
   "contributors": [
     {
       "name": "Gustavo Cortez",
@@ -46,15 +46,15 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/zcash-hackworks/insight-api-zcash/issues"
+    "url": "https://github.com/litecoinz-hackworks/insight-api-litecoinz/issues"
   },
-  "homepage": "https://github.com/zcash-hackworks/insight-api-zcash",
+  "homepage": "https://github.com/litecoinz-hackworks/insight-api-litecoinz",
   "license": "MIT",
   "keywords": [
     "insight",
     "insight api",
     "blockchain",
-    "zcash api",
+    "litecoinz api",
     "blockchain api",
     "json",
     "bitcore"
@@ -69,8 +69,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-zcash": "zcash-hackworks/bitcore-lib-zcash",
-    "bitcore-message-zcash": "zcash-hackworks/bitcore-message-zcash",
+    "bitcore-lib-litecoinz": "litecoinz-hackworks/bitcore-lib-litecoinz",
+    "bitcore-message-litecoinz": "litecoinz-hackworks/bitcore-message-litecoinz",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
