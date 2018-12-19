@@ -1,30 +1,128 @@
 [
   {
-    "poolName": "Bitfly",
-    "url": "https://zcash.flypool.org/",
+    "poolName": "Lambomoon",
+    "url": "https://lambomoon.club/",
     "searchStrings": [
-      "/flypool/"
+      "lambomoon"
     ]
   },
   {
-    "poolName": "NaN",
-    "url": "",
+    "poolName": "equipool.1ds.us",
+    "url": "https://equipool.1ds.us/getting_started",
     "searchStrings": [
-      "/NaN"
+      "equipool"
+    ]
+  },
+  {
+    "poolName": "Aikapool",
+    "url": "https://aikapool.com/ltz/",
+    "searchStrings": [
+      "Aika"
+    ]
+  },
+  {
+    "poolName": "Magnificentpool",
+    "url": "https://ltz.magnificentpool.com/",
+    "searchStrings": [
+      "magnificent"
+    ]
+  },
+  {
+    "poolName": "PCMining.XYZ",
+    "url": "http://ltz.pcmining.xyz:8080/",
+    "searchStrings": [
+      "pcmining"
+    ]
+  },
+  {
+    "poolName": "Nibirupool",
+    "url": "http://ltz.nibirupool.com/",
+    "searchStrings": [
+      "nibiru"
     ]
   },
   {
     "poolName": "Stratum",
-    "url": "",
+    "url": "https://litecoinz.org",
     "searchStrings": [
-      "/nodeStratum/"
+      "stratum"
     ]
   },
   {
-    "poolName": "Zmine",
-    "url": "https://zmine.io/",
+    "poolName": "Solo mining",
+    "url": "https://litecoinz.org",
     "searchStrings": [
-      "{ZMINE.IO}"
+      "solomining"
+    ]
+  },
+{
+  "poolName": "SoloPool",
+  "url": "https://ltz.solopool.org",
+  "searchStrings": [
+    "solopool"
+  ]
+},
+{
+  "poolName": "WindfallMining",
+  "url": "https://zpool.wfmpools.com",
+  "searchStrings": [
+    "windfall"
+  ]
+},
+{
+  "poolName": "AxePool",
+  "url": "https://litecoinz.axepool.com",
+  "searchStrings": [
+    "axepool"
+  ]
+},
+{
+  "poolName": "CoinminerSpace",
+  "url": "http://litecoinz.coinminer.space:8080/",
+  "searchStrings": [
+    "coinminer.space"
+  ]
+},
+{
+  "poolName": "FastBlocks",
+  "url": "https://fastblocks.net",
+  "searchStrings": [
+    "fastblocks"
+  ]
+},
+{
+  "poolName": "Coorp.io",
+  "url": "https://www.coorp.io/pool/ltz/",
+  "searchStrings": [
+    "coorp.io"
+  ]
+},
+{
+  "poolName": "Private-Locker",
+  "url": "https://equihash2.pool.private-locker.com/",
+  "searchStrings": [
+    "private-locker"
+  ]
+},
+ {
+    "poolName": "EquiGems!",
+    "url": "https://equigems.online",
+    "searchStrings": [
+      "EquiGems! https://equigems.online"
+    ]
+ },
+{
+  "poolName": "MinersPool.cc",
+  "url": "https://litecoinz.minerspool.cc",
+  "searchStrings": [
+    "minerspool.cc"
+  ]
+},
+  {
+    "poolName": "LeafPool",
+    "url": "https://ltz.leafpool.com",
+    "searchStrings": [
+      "leafpool"
     ]
   }
 ]
